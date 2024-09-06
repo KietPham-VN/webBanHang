@@ -56,8 +56,13 @@ font {
 	max-width: 50%;
 }
 
+.btn {
+	width: 8rem;
+	height: 3rem;
+}
 .btn-icon {
 	margin: 0;
+	margin-right: 5rem;
 	padding: 0;
 	height: 2.5rem;
 	width: 10rem;
@@ -67,8 +72,11 @@ font {
 }
 
 .search {
-	width: 50rem;
+	width: 80rem;
+	height: 3rem;
 	border-radius: 5px;
+	padding: 0;
+	margin-left: 7rem;
 }
 
 input {
@@ -95,7 +103,7 @@ input {
 	height: 39rem;
 	font-size: 2rem;
 }
-.card-title{
+.card-title {
 	font-size: 3rem;
 }
 .card-block:hover {
@@ -123,4 +131,8 @@ input {
 textarea {
 	resize: none;
 	width: 100%;
+}
+
+.search::placeholder {
+	font-size: 2rem; /* Kích thước chữ */
 }
