@@ -62,7 +62,7 @@ font {
 }
 .btn-icon {
 	margin: 0;
-	margin-right: 5rem;
+	margin-right: 7rem;
 	padding: 0;
 	height: 2.5rem;
 	width: 10rem;
@@ -76,7 +76,7 @@ font {
 	height: 3rem;
 	border-radius: 5px;
 	padding: 0;
-	margin-left: 7rem;
+	margin-left: 1rem;
 }
 
 input {
